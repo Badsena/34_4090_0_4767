@@ -1,5 +1,5 @@
 import { render, screen, fireEvent } from "@testing-library/react";
-import Todos from "./Todos";
+import Todos from "../Todos";
 
 describe("Todo App Tests", () => {
 
